@@ -1,0 +1,18 @@
+DOCUMENTATION
+
+  doc/imbw-paper-en.txt française 
+  doc/imbw-paper-fr.txt english
+  doc/imbw-paper-it.txt italiano
+
+COMPILATION
+
+  $ ./configure
+  you can enable debugging through the --enable-debug flag
+  $ make
+  the libimbw/ directory contains everything you'll need
+
+compiled/tested on:
+
+  Red Hat Linux release 8.0 (Psyche)
+  SlackWare 8.0.0 (åtta)
+
